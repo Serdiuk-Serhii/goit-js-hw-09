@@ -26,6 +26,8 @@ img {
 .timer {
   display: flex;
   justify-content: space-evenly;
+  border: 2px;
+  border-color: aqua;
 }
 
 .field {
@@ -36,4 +38,5 @@ img {
 
 .value {
   font-size: 50px;
+
 }
